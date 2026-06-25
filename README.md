@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=&fontSize=52&fontColor=a78bfa&animation=twinkling&fontAlignY=40&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Shaurya%20Sehgal&fontSize=36&fontColor=a78bfa&animation=twinkling&fontAlignY=40&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -18,6 +16,21 @@
 [![Gmail](https://img.shields.io/badge/Gmail-shauryasehgal555-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shauryasehgal555@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shaurya--sehgal5-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaurya-sehgal5)
 ![Profile Views](https://komarev.com/ghpvc/?username=shaurya-sehgal5&color=7C3AED&style=flat-square&label=profile+views)
+
+</div>
+
+```bash
+┌──(shaurya㉿devops)-[~]
+└─$ cat /etc/snake-trophy
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaurya-sehgal5/shaurya-sehgal5/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaurya-sehgal5/shaurya-sehgal5/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shaurya-sehgal5/shaurya-sehgal5/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -198,20 +211,6 @@ echo "  → remote or on-site — anywhere in India"
 
 ---
 
-```bash
-┌──(shaurya㉿devops)-[~]
-└─$ cat /etc/snake-trophy
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaurya-sehgal5/shaurya-sehgal5/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaurya-sehgal5/shaurya-sehgal5/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shaurya-sehgal5/shaurya-sehgal5/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
 
 ---
 
