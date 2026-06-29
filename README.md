@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%7C+Breaking+Prod+Since+2023;%24+uptime+%E2%86%92+no+downtime%2C+only+learning+opportunities;%24+cat+%2Fetc%2Fmission+%E2%86%92+automate+everything+or+it+didn%27t+happen;%24+ping+recruiter+-t+%E2%86%92+open+to+work+%F0%9F%9F%A2;%24+kubectl+get+skills+--all-namespaces+%E2%86%92+Running+%E2%9C%94;%24+terraform+plan+%E2%86%92+7+labs+built%2C+0+corners+cut)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%7C+Breaking+Prod+Since+2025;%24+uptime+%E2%86%92+no+downtime%2C+only+learning+opportunities;%24+cat+%2Fetc%2Fmission+%E2%86%92+automate+everything+or+it+didn%27t+happen;%24+ping+recruiter+-t+%E2%86%92+open+to+work+%F0%9F%9F%A2;%24+kubectl+get+skills+--all-namespaces+%E2%86%92+Running+%E2%9C%94;%24+terraform+plan+%E2%86%92+7+labs+built%2C+0+corners+cut)](https://git.io/typing-svg)
 
 </div>
 
