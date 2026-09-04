@@ -10,6 +10,7 @@
 
 **BCA @ UPES Dehradun** · **DevOps / Platform Engineering** · **Open to Internships & Opportunities**
 
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shauryasehgal-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shaurya-s-701b7a305/)
