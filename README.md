@@ -1,21 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SHAURYA%20SEHGAL&fontSize=40&fontColor=a78bfa&animation=twinkling&fontAlignY=38&desc=DEVOPS%20%7C%20PLATFORM%20ENGINEERING%20%7C%20CLOUD&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SHAURYA%20SEHGAL&fontSize=40&fontColor=a78bfa&animation=twinkling&fontAlignY=38&desc=BACKEND%20%7C%20DEVOPS%20%7C%20PLATFORM%20ENGINEERING&descSize=17&descAlignY=62&descAlign=50" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=17\&duration=2800\&pause=900\&color=A78BFA\&center=true\&vCenter=true\&multiline=false\&width=850\&lines=%24+whoami+%E2%86%92+DevOps+%7C+Platform+Engineering;%24+cat+%2Fetc%2Fmission+%E2%86%92+automate+the+path+to+production;%24+git+push+%E2%86%92+build+%E2%86%92+secure+%E2%86%92+deploy+%E2%86%92+observe;%24+kubectl+get+projects+%E2%86%92+VeloCore+%F0%9F%9A%80;%24+status+%E2%86%92+building+cloud-native+systems;%24+ping+recruiter+-t+%E2%86%92+open+to+work+%F0%9F%9F%A2)](https://git.io/typing-svg)
+### Backend engineer who also owns the infrastructure it runs on.
 
 <br>
 
-**BCA @ UPES Dehradun** · **DevOps / Platform Engineering** · **Open to Internships & Opportunities**
-
+![Backend Modules](https://img.shields.io/badge/Backend%20Modules-170%2B-a78bfa?style=for-the-badge)
+![Pipeline](https://img.shields.io/badge/CI%2FCD%20Pipeline-17--stage-7C3AED?style=for-the-badge)
+![Deploy Time](https://img.shields.io/badge/Push--to--Live-~60--100s-6d28d9?style=for-the-badge)
+![Metrics](https://img.shields.io/badge/Tracked%20Metrics-20%2B-4c1d95?style=for-the-badge)
+![Solo Build](https://img.shields.io/badge/Solo%20Build-~35%20days-a78bfa?style=for-the-badge)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shauryasehgal-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shaurya-s-701b7a305/)
-[![GitHub](https://img.shields.io/badge/GitHub-shaurya--sehgal5-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shaurya-sehgal5)
-[![Email](https://img.shields.io/badge/Email-shauryasehgal555-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shauryasehgal555@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=850&lines=%24+whoami+%E2%86%92+Backend+%7C+DevOps+%7C+Platform+Engineer;%24+psql+-c+%22select+*+from+deployments%22+%E2%86%92+170%2B+modules+served;%24+docker+build+-t+velocore+.+%26%26+trivy+image+velocore+%E2%86%92+0+critical+CVEs;%24+kubectl+rollout+status+deployment%2Fvelocore+%E2%86%92+deployment+successful;%24+terraform+plan+-out%3Dtfplan+%E2%86%92+12+to+add%2C+0+to+destroy;%24+curl+-s+localhost%3A8080%2Fhealthz+%E2%86%92+200+OK;%24+echo+%24STATUS+%E2%86%92+open_to_work+%F0%9F%9F%A2)](https://git.io/typing-svg)
+
+<br>
+
+**BCA (Cyber Security) @ UPES Dehradun** · **Backend Development · DevOps · Platform Engineering** · **Open to Internships & Opportunities**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shauryasehgal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-s-701b7a305/)
+[![GitHub](https://img.shields.io/badge/GitHub-shaurya--sehgal5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaurya-sehgal5)
+[![Email](https://img.shields.io/badge/Email-shauryasehgal555-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryasehgal555@gmail.com)
 
 </div>
 
@@ -28,34 +39,26 @@
 
 ```yaml
 name        : Shaurya Sehgal
-education   : BCA — UPES Dehradun
-role        : DevOps / Platform Engineering
-focus       : Cloud Infrastructure · Kubernetes · CI/CD · DevSecOps
+education   : BCA (Cyber Security) — UPES Dehradun, expected July 2027
+role        : Backend Development · DevOps · Platform Engineering
+focus       : APIs · Distributed Systems · Kubernetes · CI/CD · DevSecOps
 currently   : Building VeloCore
 mindset     : "understand the system, automate the system"
-open_to     : DevOps · Platform · Cloud · DevSecOps · SRE
+open_to     : Backend · DevOps · Platform · Cloud · SRE
 ```
 
 ---
 
-# ⚡ I Build Platforms, Not Just Projects
+# ⚡ I Build Backend Systems — And the Infrastructure That Runs Them
 
-Most of my work revolves around one question:
+Most of my work revolves around two questions:
 
-> **What happens between a developer writing code and that code becoming a reliable production service?**
+> **How do you design a backend that holds up under real, asynchronous, failure-prone conditions?**
+> **And what happens between a developer writing code and that code becoming a reliable production service?**
 
-That's the layer I'm interested in.
+Both are the same problem from different sides — APIs, data models, and job queues on one end; containers, orchestration, and CI/CD on the other.
 
-Infrastructure.
-Containers.
-CI/CD.
-Kubernetes.
-Security.
-Observability.
-Automation.
-Failure recovery.
-
-Instead of building another CRUD application, I built **VeloCore** — a self-hosted Platform-as-a-Service that turns a GitHub repository into a running application on Kubernetes.
+Instead of building another CRUD application, I built **VeloCore** — a self-hosted Platform-as-a-Service that turns a GitHub repository into a running application on Kubernetes, backed by a PostgreSQL-modeled, queue-driven backend.
 
 ---
 
@@ -73,15 +76,13 @@ Instead of building another CRUD application, I built **VeloCore** — a self-ho
 
 </div>
 
-VeloCore is my flagship Platform Engineering project.
+VeloCore is my flagship Platform Engineering project, built solo in ~35 days.
 
 It provides a deployment experience similar to platforms such as Vercel, Railway, Render and Coolify — but the infrastructure is **owned and controlled by the user**.
 
-The developer connects GitHub, selects a repository and deploys.
+The developer connects GitHub, selects a repository and deploys. VeloCore handles the infrastructure underneath.
 
-VeloCore handles the infrastructure underneath:
-
-VeloCore currently brings together **170+ backend modules, 17 deployment stages, 4 supported framework categories and 3 observability systems**.
+VeloCore currently brings together **170+ backend modules, a 17-stage deployment pipeline, 5+ supported framework categories, and 20+ tracked platform/runtime metrics — taking a push live end-to-end in ~60–100 seconds.**
 
 ---
 
@@ -117,11 +118,12 @@ Monitoring
 Live Application
 ```
 
-The backend coordinates the complete deployment lifecycle rather than simply running a shell script.
+The backend — Node.js/Express, PostgreSQL, and BullMQ/Redis — coordinates the complete deployment lifecycle rather than simply running a shell script.
 
-Deployment stages are explicitly tracked so failures can be reasoned about and recovered from.
+Deployment stages are explicitly tracked as state transitions, so failures can be reasoned about and recovered from — automatic rollback validates rollout health against Kubernetes liveness/readiness probes and restores the last known-good Helm release on failure.
 
 ---
+
 # 🏗️ Architecture
 
 ```mermaid
@@ -174,10 +176,11 @@ flowchart LR
 | **BullMQ**                  | Queues and controls deployment jobs           |
 | **Redis**                   | Queue backend                                 |
 | **Docker / BuildKit**       | Builds application images                     |
-| **Trivy**                   | Container security scanning                   |
+| **Trivy**                   | Container + CVE-severity security scanning    |
 | **Helm**                    | Dynamic Kubernetes workload generation        |
 | **Kubernetes**              | Application runtime                           |
 | **Runtime Manager**         | Tracks live deployments and runtime state     |
+| **PostgreSQL**              | Deployment metadata, events, rollback history |
 | **Prometheus**              | Metrics collection                            |
 | **Grafana**                 | Visualization and dashboards                  |
 | **Loki**                    | Persistent log aggregation                    |
@@ -186,43 +189,44 @@ flowchart LR
 The architecture and component responsibilities are based directly on the VeloCore implementation.
 
 ---
+
 # 🛠️ Technology Stack
 
 <div align="center">
 
 ### Platform & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square\&logo=helm\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### Backend & Systems
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### DevSecOps & Observability
 
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square\&logo=grafana\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Application
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -230,15 +234,15 @@ The core VeloCore stack is Node.js/Express, React, Docker, Kubernetes, Helm, Bul
 
 ---
 
-# 🧪 Beyond VeloCore
+# 💼 Beyond VeloCore
 
 VeloCore is my main project, but it wasn't built in isolation.
 
-I've also built **hands-on AWS and infrastructure labs** covering cloud networking, compute, storage, IAM, load balancing, CI/CD, Kubernetes and Infrastructure as Code.
+**Cloud & Kubernetes Labs** — Hands-on AWS and infrastructure labs covering cloud networking, compute, storage, IAM, load balancing, CI/CD, Kubernetes (Minikube, Kind), and Terraform IaC. Used to build the infrastructure knowledge applied directly in VeloCore.
 
-Those labs were primarily used to build the underlying infrastructure knowledge that I applied while building VeloCore.
+**Freelance — Nitro Media** — Independently deliver client web projects end-to-end (requirements → build → deployment), including sites for Harjas Hostel (React/Tailwind/Framer Motion), Om Residency (mobile-first, glassmorphism), and R.C. Eye & Dental Hospital.
 
-**VeloCore is where those concepts come together into one system.**
+**VeloCore is where the infrastructure concepts come together into one system.**
 
 ---
 
@@ -293,30 +297,28 @@ Those labs were primarily used to build the underlying infrastructure knowledge 
 
 # 🎯 What I'm Looking For
 
-I'm currently looking for opportunities where I can work close to infrastructure and production systems.
+I'm currently looking for opportunities where I can work close to backend systems, infrastructure, or both.
 
 ```text
+Backend Development / SDE
 DevOps Engineering
 Platform Engineering
 Cloud Infrastructure
 DevSecOps
 Site Reliability Engineering
-Infrastructure Engineering
-DevOps / Cloud Internships
+Backend / DevOps / Cloud Internships
 ```
 
 I'm particularly interested in teams where I can work with:
 
 ```text
-Linux
+Node.js / APIs
    +
-AWS
+PostgreSQL / Redis
    +
-Docker
+Docker / Kubernetes
    +
-Kubernetes
-   +
-Terraform
+AWS / Terraform
    +
 CI/CD
    +
@@ -347,15 +349,14 @@ Security
 
 ---
 
-
 <div align="center">
 
 ### `build → automate → observe → secure → improve`
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shaurya-s-701b7a305/)
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shaurya-sehgal5)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-s-701b7a305/)
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaurya-sehgal5)
 
 <br><br>
 
