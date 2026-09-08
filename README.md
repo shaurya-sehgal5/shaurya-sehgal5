@@ -6,15 +6,6 @@
 
 ### Backend engineer who also owns the infrastructure it runs on.
 
-<br>
-
-![Backend Modules](https://img.shields.io/badge/Backend%20Modules-170%2B-a78bfa?style=for-the-badge)
-![Pipeline](https://img.shields.io/badge/CI%2FCD%20Pipeline-17--stage-7C3AED?style=for-the-badge)
-![Deploy Time](https://img.shields.io/badge/Push--to--Live-~60--100s-6d28d9?style=for-the-badge)
-![Metrics](https://img.shields.io/badge/Tracked%20Metrics-20%2B-4c1d95?style=for-the-badge)
-![Solo Build](https://img.shields.io/badge/Solo%20Build-~35%20days-a78bfa?style=for-the-badge)
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=850&lines=%24+whoami+%E2%86%92+Backend+%7C+DevOps+%7C+Platform+Engineer;%24+psql+-c+%22select+*+from+deployments%22+%E2%86%92+170%2B+modules+served;%24+docker+build+-t+velocore+.+%26%26+trivy+image+velocore+%E2%86%92+0+critical+CVEs;%24+kubectl+rollout+status+deployment%2Fvelocore+%E2%86%92+deployment+successful;%24+terraform+plan+-out%3Dtfplan+%E2%86%92+12+to+add%2C+0+to+destroy;%24+curl+-s+localhost%3A8080%2Fhealthz+%E2%86%92+200+OK;%24+echo+%24STATUS+%E2%86%92+open_to_work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
